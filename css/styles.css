@@ -3,15 +3,17 @@ body{
     background-color: #76045D;
     display: grid;
     grid-template-areas: 
-    "header" 
-    "main"
-   "footer";
+      "header" 
+      "main"
+      "footer";
    grid-template-rows: 100px 1fr 100px;
    padding-right: 100px;
 }
 header{
     grid-area: header;
-     background-color: deeppink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 main{
     grid-area:main;
