@@ -12,10 +12,12 @@
     font-size: 2rem;
     display: grid;
     place-items: center;
+    color: #76045D;
+    font-weight: 700;
 }
 .product__image{
     height: 60%;
 }
-.product__negation__container{
+.product__navegation-container{
     display: flex;
 }
