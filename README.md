@@ -2,7 +2,7 @@
 
 ![](./img/dektop.png)
 
-[Clique aqui] https://0612200.github.io/headphone-purple/()
+[Clique aqui](https://0612200.github.io/headphone-purple/)
 
 ---
 
